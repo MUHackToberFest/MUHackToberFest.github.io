@@ -1,14 +1,20 @@
-# MUHackToberFest.github.io
+Be the first to know about Hacktoberfest 2019.
+https://hacktoberfest.digitalocean.com/
+=======================================
 
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean 
-in partnership with GitHub and Twilio.
+local updates
+https://MUHackToberFest.github.io
+=================================
 
-    Hacktoberfest is open to everyone in our global community!
-    Five quality pull requests must be submitted to public GitHub repositories.
-    You can sign up anytime between October 1 and October 31.
+
+Hacktoberfest is a month-long celebration of free and open source software open 
+to everyone in our global community which is run by DigitalOcean in partnership
+with GitHub.
     
-    
-The event is also held in Mauritius organised by a team of Hackers, Craftmen, Developers.
+Join us in the events beng held in Mauritius organised by a team of Hackers, 
+Craftmen, Developers.
 
-
-We will keep you updated
+If you’re a hacker, developer, maker, student learning to code, event host, or 
+company of any size, you can help drive growth of free and open source and make
+positive contributions to an ever-growing community. All backgrounds and skills 
+levels are encouraged to complete the challenge.
