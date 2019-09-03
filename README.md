@@ -18,3 +18,8 @@ If you’re a hacker, developer, maker, student learning to code, event host, or
 company of any size, you can help drive growth of free and open source and make
 positive contributions to an ever-growing community. All backgrounds and skills 
 levels are encouraged to complete the challenge.
+
+
+What is hacktoberfest ::
+https://hacktoberfest.digitalocean.com/faq/
+--------------------------------------------
